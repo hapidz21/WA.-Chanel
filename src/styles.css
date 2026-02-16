@@ -1,0 +1,35 @@
+body {
+      margin: 0;
+        font-family: Arial, sans-serif;
+        }
+
+        .container {
+          height: 100vh;
+            display: flex;
+              justify-content: center;
+                align-items: center;
+                  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+                  }
+
+                  .card {
+                    background: white;
+                      padding: 40px;
+                        border-radius: 20px;
+                          text-align: center;
+                            width: 90%;
+                              max-width: 400px;
+                                box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+                                }
+
+                                .button {
+                                  display: inline-block;
+                                    margin-top: 20px;
+                                      padding: 14px 25px;
+                                        background-color: #25D366;
+                                          color: white;
+                                            border-radius: 10px;
+                                              text-decoration: none;
+                                                font-weight: bold;
+                                                }
+                                                
+}
